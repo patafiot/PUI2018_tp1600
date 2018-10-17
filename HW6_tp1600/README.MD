@@ -1,7 +1,6 @@
 # HW 6
 
-For this assignment, I worked with Jerome Louison-- particularly on Assignments 2, 3, ad 4. We did Assignment 3 jointly, while I supported the 
-coding on Assignment 4 and Jerome took the lead on Assignment 2.
+For this assignment, I worked with Jerome Louison-- particularly on Assignments 2, 3, ad 4. We did Assignment 3 jointly, while I led  some of the coding efforts on Assignment 4. 
 
 ## Assignment 2
 
