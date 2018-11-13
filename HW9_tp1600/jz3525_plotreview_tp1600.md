@@ -2,7 +2,7 @@
 
 ![Alt text](../HW8_tp1600/pui_hw81.png)
 
-Overall, the plot looks good. It is easy to read and clear, with good labelling on all axes. While an upward trend is apparent through the visualization, a caption would be helpful in understanding the key messages communicated by the plot.
+Overall, the plot looks good. It is easy to read and clear, with good labelling on all axes. Units can be added to further enhance the plot and ensure the viewer is clear on the content. While an upward trend is apparent through the visualization, a caption would be helpful in understanding the key messages communicated by the plot.
 
 Outliers were removed during the processing, the impact of which does not seem to distort the overall messaging so I would consider this appropriate judgement and good practice.
 
